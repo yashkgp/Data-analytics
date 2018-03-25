@@ -1,2 +1,2 @@
-# Data-analytics
-for pratice purpose only
+# Machine learning Repo
+My implementation of various Machine learning models.
